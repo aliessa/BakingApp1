@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="extra">numberofitem</string>
+    <string name="servings">Servings :</string>
+    <string name="Next">Next</string>
+    <string name="Prev">Prev</string>
+    <string name="url">https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58d1537b_baking/baking.json</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="Ingredient">Ingredient</string>
+</resources>
